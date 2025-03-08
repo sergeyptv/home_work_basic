@@ -3,9 +3,9 @@ package hw02
 import (
 	"fmt"
 
-	"github.com/sergeyptv/home_work_basic/hw02_fix_app/printer"
-	"github.com/sergeyptv/home_work_basic/hw02_fix_app/reader"
-	"github.com/sergeyptv/home_work_basic/hw02_fix_app/types"
+	"github.com/sergeyptv/home_work_basic/hw06_testing/hw02/printer"
+	"github.com/sergeyptv/home_work_basic/hw06_testing/hw02/reader"
+	"github.com/sergeyptv/home_work_basic/hw06_testing/hw02/types"
 )
 
 func main() {
