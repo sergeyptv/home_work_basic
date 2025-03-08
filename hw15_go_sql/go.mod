@@ -1,4 +1,4 @@
-module github.com/srg77global/home_work_basic/hw15_go_sql
+module github.com/sergeyptv/home_work_basic/hw15_go_sql
 
 // hw15_go_sql
 

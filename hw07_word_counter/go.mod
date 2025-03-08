@@ -1,4 +1,4 @@
-module github.com/srg77global/home_work_basic/hw07_word_counter
+module github.com/sergeyptv/home_work_basic/hw07_word_counter
 
 go 1.20
 

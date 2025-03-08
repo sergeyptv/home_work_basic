@@ -1,4 +1,4 @@
-module github.com/srg77global/home_work_basic/hw08_binary_search
+module github.com/sergeyptv/home_work_basic/hw08_binary_search
 
 go 1.20
 

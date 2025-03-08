@@ -1,4 +1,4 @@
-module github.com/srg77global/home_work_basic/hw13_http
+module github.com/sergeyptv/home_work_basic/hw13_http
 
 go 1.20
 
