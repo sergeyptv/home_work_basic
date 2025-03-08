@@ -16,5 +16,4 @@ use (
 	./hw15_go_sql
 	./hw16_docker
 	hw06_testing/hw02
-	hw06_testing/hw02
 )
