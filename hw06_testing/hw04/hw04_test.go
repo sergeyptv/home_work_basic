@@ -339,7 +339,8 @@ func TestComparator(t *testing.T) {
 			book1: Book{},
 			book2: Book{},
 			res:   false,
-		}, {
+		},
+		{
 			desc:  "NotCorrectFieldToCompare",
 			enum:  10,
 			book1: Book{year: 1990, size: 500, rate: 7.3},
