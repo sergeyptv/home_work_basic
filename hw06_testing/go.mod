@@ -1,10 +1,9 @@
 module github.com/sergeyptv/home_work_basic/hw06_testing
 
-go 1.22
+go 1.20
 
-require (
-	github.com/stretchr/testify v1.10.0
-)
+require github.com/stretchr/testify v1.9.0
+
 
 require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
